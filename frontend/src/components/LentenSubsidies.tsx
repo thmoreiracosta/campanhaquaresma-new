@@ -75,8 +75,14 @@ export default function LentenSubsidies({ openModal }: LentenSubsidiesProps) {
       title: "Meditações para 1ª Semana",
       link: "https://drive.google.com/file/d/1DVaRmkVqy-cMLEjGF7V6GhrM_KD3KI7m/view?usp=drive_link",
     },
-    { title: "Meditações para 2ª Semana", link: "LINK_SEMANA_2" },
-    { title: "Meditações para 3ª Semana", link: "LINK_SEMANA_3" },
+    { 
+      title: "Meditações para 2ª Semana", 
+      link: "https://drive.google.com/file/d/1iHPurS85_MKoSk7KWkjNuA3QKIXIBMlF/view?usp=drive_link" 
+    },
+    { 
+      title: "Meditações para 3ª Semana", 
+      link: "https://drive.google.com/file/d/1ATplCgMTJjJSYr73YQOwLTd-RwtWyI9-/view?usp=drive_link" 
+    },
     { title: "Meditações para 4ª Semana", link: "LINK_SEMANA_4" },
     { title: "Meditações para 5ª Semana", link: "LINK_SEMANA_5" },
     { title: "Meditações para Semana Santa", link: "LINK_SEMANA_6" },
