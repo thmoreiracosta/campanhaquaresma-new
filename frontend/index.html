@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <meta property="og:title" content="Campanha da Quaresma 2026" />
+    <meta
+      property="og:description"
+      content="Participe da Campanha da Quaresma 2026: 'Mestre, onde moras?' — 'Vinde e vede.' (Jo 1,38-39) ✝️🙏"
+    />
+    <meta property="og:image" content="https://www.minhacampanhaeaquaresma.com.br/og-image.png" />
+    <meta property="og:url" content="https://www.minhacampanhaeaquaresma.com.br/" />
+    <!-- Open Graph / WhatsApp / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://minhacampanhaeaquaresma.com.br/" />
+    <meta
+      property="og:title"
+      content="Campanha da Quaresma 2026 — Mestre, onde moras?"
+    />
+    <meta
+      property="og:description"
+      content="Vinde e vede! Um convite profundo à conversão, oração e encontro com Cristo na Quaresma 2026."
+    />
+    <meta
+      property="og:image"
+      content="https://minhacampanhaeaquaresma.com.br/og-image.png"
+    />
+
+    <!-- Twitter (opcional, mas bom) -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      name="twitter:title"
+      content="Campanha da Quaresma 2026 — Mestre, onde moras?"
+    />
+    <meta
+      name="twitter:description"
+      content="Vinde e vede! Um convite profundo à conversão, oração e encontro com Cristo."
+    />
+    <meta
+      name="twitter:image"
+      content="https://minhacampanhaeaquaresma.com.br/og-image.png"
+    />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script>
+      const hour = new Date().getHours();
+      const defaultTheme = hour >= 18 || hour < 6 ? "dark" : "light";
+      const savedTheme = localStorage.getItem("theme");
+      const theme = savedTheme || defaultTheme;
+      document.documentElement.classList.add(theme);
+    </script>
+    <title>Campanha da Quaresma 2026</title>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
