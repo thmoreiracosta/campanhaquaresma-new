@@ -67,7 +67,7 @@ export default function Modal({ isOpen, onClose, contentKey }: ModalProps) {
       setLoadingComments(true);
 
       try {
-        const res = await fetch(API_URL + `?t=${Date.now()}`);
+        const res = await fetch(API_URL + `/comments?t=${Date.now()}`);
         const data = await res.json();
 
         // Verifica se a resposta contém dados
@@ -139,7 +139,7 @@ export default function Modal({ isOpen, onClose, contentKey }: ModalProps) {
     };
 
     try {
-      const res = await fetch(API_URL, {
+      const res = await fetch(API_URL + `/comments`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(newComment),
