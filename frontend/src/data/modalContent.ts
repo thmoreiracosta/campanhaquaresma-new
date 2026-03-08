@@ -190,6 +190,137 @@ export const modalContentData: Record<string, ModalContentItem> = {
     `,
   },
 
+  "meditacao-03": {
+    title: "Escutar e jejuar – Quaresma como tempo de conversão",
+    content: `
+  <div style="font-size: 19px; line-height: 1.9;">
+
+    <p style="text-align: center; font-weight: bold;">
+      MENSAGEM DE SUA SANTIDADE PAPA LEÃO XIV<br>
+      PARA A QUARESMA 2026
+    </p><br>
+
+    <p style="text-align: center; font-style: italic;">
+      Escutar e jejuar.<br>
+      Quaresma como tempo de conversão
+    </p><br>
+
+    <p style="text-align: justify;">
+      Queridos irmãos e irmãs!
+    </p>
+
+    <p style="text-align: justify;">
+      A Quaresma é o tempo em que a Igreja, com solicitude maternal, nos convida a recolocar o mistério de Deus no centro da nossa vida, para que a nossa fé ganhe novo impulso e o coração não se perca entre as inquietações e as distrações do quotidiano.
+    </p><br>
+
+    <p style="text-align: justify;">
+      Todo o caminho de conversão começa quando nos deixamos alcançar pela Palavra e a acolhemos com docilidade de espírito. Existe, portanto, um vínculo entre o dom da Palavra de Deus, a hospitalidade que lhe oferecemos e a transformação que ela realiza. Por isso, o itinerário quaresmal torna-se uma ocasião propícia para dar ouvidos à voz do Senhor e renovar a decisão de seguir Cristo, percorrendo com Ele o caminho que sobe a Jerusalém, onde se realiza o mistério da sua paixão, morte e ressurreição.
+    </p><br>
+
+    <p style="text-align: justify; font-weight: bold;">
+      ESCUTAR
+    </p>
+
+    <p style="text-align: justify;">
+      Este ano gostaria de chamar a atenção, em primeiro lugar, para a importância de dar lugar à Palavra através da escuta, pois a disponibilidade para escutar é o primeiro sinal com que se manifesta o desejo de entrar em relação com o outro.
+    </p><br>
+
+    <p style="text-align: justify;">
+      O próprio Deus, revelando-se a Moisés na sarça ardente, mostra que a escuta é uma característica distintiva do seu ser: «Eu bem vi a opressão do meu povo que está no Egipto, e ouvi o seu clamor» (Ex 3, 7). Escutar o clamor dos oprimidos é o início de uma história de libertação, na qual o Senhor envolve também Moisés, enviando-o a abrir um caminho de salvação para os seus filhos reduzidos à escravidão.
+    </p><br>
+
+    <p style="text-align: justify;">
+      É um Deus que nos envolve e, hoje, também vem até nós com os pensamentos que fazem vibrar o seu coração. Por isso, escutar a Palavra na liturgia educa-nos para uma escuta mais verdadeira da realidade: entre as muitas vozes que passam pela nossa vida pessoal e social, as Sagradas Escrituras tornam-nos capazes de reconhecer aquela que surge do sofrimento e da injustiça, para que não fique sem resposta.
+    </p><br>
+
+    <p style="text-align: justify;">
+      Entrar nesta disposição interior de recetividade significa deixar-se instruir hoje por Deus para escutar como Ele, até reconhecer que «a condição dos pobres representa um grito que, na história da humanidade, interpela constantemente a nossa vida, as nossas sociedades, os sistemas políticos e económicos e, sobretudo, a Igreja».
+    </p><br>
+
+    <p style="text-align: justify; font-weight: bold;">
+      JEJUAR
+    </p>
+
+    <p style="text-align: justify;">
+      Se a Quaresma é um tempo de escuta, o jejum constitui uma prática concreta que nos predispõe a acolher a Palavra de Deus. Na verdade, a abstinência de alimentos é um exercício ascético muito antigo e insubstituível no caminho da conversão.
+    </p><br>
+
+    <p style="text-align: justify;">
+      Precisamente porque implica o corpo, torna mais evidente aquilo de que temos “fome” e o que consideramos essencial para o nosso sustento. Portanto, é útil para discernir e ordenar os “apetites”, para manter vigilante a fome e a sede de justiça, subtraindo-a à resignação e instruindo-a a fim de se tornar oração e responsabilidade para com o próximo.
+    </p><br>
+
+    <p style="text-align: justify;">
+      Com grande sensibilidade espiritual, Santo Agostinho deixa transparecer a tensão entre o tempo presente e a realização futura que atravessa esta salvaguarda do coração quando observa:
+    </p>
+
+    <p style="text-align: center; font-style: italic;">
+      «Ao longo da vida terrena, cabe aos homens ter fome e sede de justiça, mas ser saciados pertence à outra vida. Os anjos saciam-se deste pão, deste alimento. Os homens, pelo contrário, sentem fome dele, estão inclinados ao seu desejo. Esta inclinação ao desejo dilata a alma, aumentando a sua capacidade».
+    </p><br>
+
+    <p style="text-align: justify;">
+      Compreendido neste sentido, o jejum permite-nos não só disciplinar o desejo, purificá-lo e torná-lo mais livre, mas também ampliá-lo, de tal modo que se volte para Deus e se oriente para agir no bem.
+    </p><br>
+
+    <p style="text-align: justify;">
+      No entanto, para que o jejum conserve a sua autenticidade evangélica e evite a tentação de envaidecer o coração, deve ser sempre vivido com fé e humildade. Ele exige um permanente enraizar-se na comunhão com o Senhor, porque «não jejua verdadeiramente quem não sabe alimentar-se da Palavra de Deus».
+    </p><br>
+
+    <p style="text-align: justify;">
+      Como sinal visível do nosso compromisso interior de, com o apoio da graça, nos afastarmos do pecado e do mal, o jejum deve incluir também outras formas de privação destinadas a fazer-nos assumir um estilo de vida mais sóbrio, pois «só a austeridade torna forte e autêntica a vida cristã».
+    </p><br>
+
+    <p style="text-align: justify;">
+      Por isso, gostaria de vos convidar a uma forma de abstinência muito concreta e frequentemente pouco apreciada: a abstinência de palavras que atingem e ferem o nosso próximo. Comecemos por desarmar a linguagem, renunciando às palavras mordazes, ao juízo temerário, ao falar mal de quem está ausente e não se pode defender, às calúnias.
+    </p><br>
+
+    <p style="text-align: justify;">
+      Em vez disso, esforcemo-nos por aprender a medir as palavras e a cultivar a gentileza: na família, entre amigos, nos locais de trabalho, nas redes sociais, nos debates políticos, nos meios de comunicação social e nas comunidades cristãs. Assim, muitas palavras de ódio darão lugar a palavras de esperança e paz.
+    </p><br>
+
+    <p style="text-align: justify; font-weight: bold;">
+      JUNTOS
+    </p>
+
+    <p style="text-align: justify;">
+      Por fim, a Quaresma realça a dimensão comunitária da escuta da Palavra e da prática do jejum. A Escritura sublinha também este aspeto ao narrar no livro de Neemias que o povo se reuniu para escutar a leitura pública da Lei e, praticando o jejum, se dispôs à confissão de fé e à adoração para renovar a aliança com Deus (cf. Ne 9, 1-3).
+    </p><br>
+
+    <p style="text-align: justify;">
+      Do mesmo modo, as nossas paróquias, famílias, grupos eclesiais e comunidades religiosas são chamadas a percorrer, durante a Quaresma, um caminho partilhado, no qual a escuta da Palavra de Deus, assim como do clamor dos pobres e da terra, se torne forma de vida comum e o jejum suporte um verdadeiro arrependimento.
+    </p><br>
+
+    <p style="text-align: justify;">
+      Neste contexto, a conversão diz respeito não só à consciência do indivíduo, mas também ao estilo das relações, à qualidade do diálogo, à capacidade de se deixar interpelar pela realidade e de reconhecer o que realmente orienta o desejo, tanto nas nossas comunidades eclesiais como na humanidade sedenta de justiça e reconciliação.
+    </p><br>
+
+    <p style="text-align: justify;">
+      Caríssimos, peçamos a graça de uma Quaresma que torne os nossos ouvidos mais atentos a Deus e aos últimos. Peçamos a força de um jejum que também passe pela língua, para que diminuam as palavras ofensivas e aumente o espaço dado à voz do outro.
+    </p><br>
+
+    <p style="text-align: justify;">
+      Comprometamo-nos a fazer das nossas comunidades lugares onde o clamor de quem sofre seja acolhido e a escuta abra caminhos de libertação, tornando-nos mais disponíveis e diligentes no contributo para construir a civilização do amor.
+    </p><br>
+
+    <p style="text-align: center; font-style: italic;">
+      De coração, abençoo todos vós e o vosso caminho quaresmal.
+    </p><br>
+
+    <p style="text-align: center;">
+      Vaticano, na Memória de Santa Ágata, virgem e mártir<br>
+      5 de fevereiro de 2026
+    </p><br>
+
+    <p style="text-align: center; font-weight: bold;">
+      LEÃO PP. XIV
+    </p>
+
+  </div>
+  `,
+    summary: `
+  A Quaresma é o tempo em que a Igreja, com solicitude maternal, nos convida a recolocar o mistério de Deus no centro da nossa vida, para que a nossa fé ganhe novo impulso e o coração não se perca entre as inquietações e as distrações do quotidiano...
+  `,
+  },
+
   "oracao-tema": {
     title: "A Oração Quaresmal",
     content: `
@@ -329,7 +460,6 @@ export const modalContentData: Record<string, ModalContentItem> = {
     </div>
     `,
   },
-
 
   // exemplos de orações
   "pai-nosso": {
