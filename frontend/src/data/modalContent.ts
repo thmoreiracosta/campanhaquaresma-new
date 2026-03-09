@@ -317,7 +317,7 @@ export const modalContentData: Record<string, ModalContentItem> = {
   </div>
   `,
     summary: `
-  A Quaresma é o tempo em que a Igreja, com solicitude maternal, nos convida a recolocar o mistério de Deus no centro da nossa vida, para que a nossa fé ganhe novo impulso e o coração...
+  A Quaresma é o tempo em que a Igreja, com solicitude maternal, nos convida a recolocar o mistério de Deus no centro da nossa vida, ...
   `,
   },
 
