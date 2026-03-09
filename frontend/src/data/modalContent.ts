@@ -191,7 +191,7 @@ export const modalContentData: Record<string, ModalContentItem> = {
   },
 
   "meditacao-03": {
-    title: "Escutar e jejuar – Quaresma como tempo de conversão",
+    title: "Escutar e jejuar",
     content: `
   <div style="font-size: 19px; line-height: 1.9;">
 
