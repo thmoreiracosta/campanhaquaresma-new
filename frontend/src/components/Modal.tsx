@@ -283,23 +283,29 @@ export default function Modal({ isOpen, onClose, contentKey }: ModalProps) {
     printWindow.close();
   };
 
+  
+
   const handleShare = () => {
-    if (!content) return;
+    if (!content || !contentKey) return;
 
     const snippet = content.content
       .replace(/<[^>]+>/g, "")
-      .slice(0, 150)
+      .slice(0, 300)
       .trim();
-    const shareText = `${content.title}\n\n"${snippet}..." \n\nLeia mais: ${window.location.href}`;
+
+    const url = `${window.location.origin}${window.location.pathname}#${contentKey}`;
+
+    const shareText = `${content.title}\n\n"${snippet}..."`;
 
     if (navigator.share) {
       navigator.share({
         title: content.title,
         text: shareText,
-        url: window.location.href,
+        url: url,
       });
     } else {
-      alert("Compartilhamento não suportado neste navegador.");
+      navigator.clipboard.writeText(url);
+      alert("Link copiado para a área de transferência!");
     }
   };
 
