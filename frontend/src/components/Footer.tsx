@@ -1,6 +1,11 @@
 import { motion } from "framer-motion";
 
-export default function Footer({ scrollToSection, openModal }) {
+type FooterProps = {
+  scrollToSection: (id: string) => void;
+  openModal: (modal: string) => void;
+};
+
+export default function Footer({ scrollToSection, openModal }: FooterProps) {
   const shareUrl = window.location.href;
   const shareText =
     "Participe da Campanha da Quaresma 2026: 'Mestre, onde moras?' — 'Vinde e vede.' (Jo 1,38-39) ✝️🙏";

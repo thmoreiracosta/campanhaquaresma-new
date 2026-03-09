@@ -4,9 +4,12 @@ import { useAOS } from "../hooks/useAOS";
 import dores from "../assets/dores.png";
 import viaSacra from "../assets/via-sacra.png";
 import cquaresma from "../assets/cquaresma.png";
+import cquaresma2 from "../assets/cquaresma_2.png";
 import confissao from "../assets/confissao.png";
-import ultimaQuaresma from "../assets/capa-ultimaquaresma.png"; 
+//import ultimaQuaresma from "../assets/capa-ultimaquaresma.png";
 import robertSarah from "../assets/robertSarah.png";
+import robertSarahII from "../assets/robertSarahII.png";
+import bentoXVI from "../assets/bentoXVI.png";
 
 interface LentenSubsidiesProps {
   openModal: (key: string) => void;
@@ -83,9 +86,18 @@ export default function LentenSubsidies({ openModal }: LentenSubsidiesProps) {
       title: "Meditações para 3ª Semana", 
       link: "https://drive.google.com/file/d/1ATplCgMTJjJSYr73YQOwLTd-RwtWyI9-/view?usp=drive_link" 
     },
-    { title: "Meditações para 4ª Semana", link: "LINK_SEMANA_4" },
-    { title: "Meditações para 5ª Semana", link: "LINK_SEMANA_5" },
-    { title: "Meditações para Semana Santa", link: "LINK_SEMANA_6" },
+    { 
+      title: "Meditações para 4ª Semana", 
+      link: "LINK_SEMANA_4" 
+    },
+    { 
+      title: "Meditações para 5ª Semana", 
+      link: "LINK_SEMANA_5" 
+    },
+    { 
+      title: "Meditações para Semana Santa", 
+      link: "LINK_SEMANA_6" 
+    },
   ];
 
   const ebooks: { img: string; link: string; title: string }[] = [
@@ -108,6 +120,16 @@ export default function LentenSubsidies({ openModal }: LentenSubsidiesProps) {
       img: robertSarah,
       link: "https://drive.google.com/file/d/1Gcme26Ska5JirXJKJn1WsEJ9SgwGf9F_/view?usp=drive_link",
       title: "Homilia Cardeal Robert Sarah",
+    },
+    {
+      img: bentoXVI,
+      link: "https://drive.google.com/file/d/1tx0pIYj6G3tl_ej-VjZ-pKurSSmOUUi7/view?usp=drive_link",
+      title: "Bento XVI - Reflexões sobre a oração cristã",
+    },
+    {
+      img: robertSarahII,
+      link: "https://drive.google.com/file/d/1hi57HjQ1cRytw64kl9Z5GqvJ76dz6y-a/view?usp=drive_link",
+      title: "Robert Sarah - A Vida Espiritual",
     },
   ];
 
