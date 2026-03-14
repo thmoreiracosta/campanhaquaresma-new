@@ -39,13 +39,14 @@ export default function Modal({ isOpen, onClose, contentKey }: ModalProps) {
   const [commentLikesCount, setCommentLikesCount] = useState<
     Map<string, number>
   >(new Map());
-  const userId =
-    localStorage.getItem("user-id") ||
-    (() => {
-      const id = crypto.randomUUID();
-      localStorage.setItem("user-id", id);
-      return id;
-    })();
+  const [userId] = useState(() => {
+    const existing = localStorage.getItem("user-id");
+    if (existing) return existing;
+
+    const id = crypto.randomUUID();
+    localStorage.setItem("user-id", id);
+    return id;
+  });
 
   const contentRef = useRef<HTMLDivElement>(null);
 
@@ -55,6 +56,9 @@ export default function Modal({ isOpen, onClose, contentKey }: ModalProps) {
 
   const storageKeyLikes = contentKey ? `modal-likes-${contentKey}` : "";
   const storageKeyLikedFlag = contentKey ? `modal-liked-${contentKey}` : "";
+  const storageKeyCommentLikes = contentKey
+    ? `modal-comment-likes-${contentKey}`
+    : "";
   const [loadingComments, setLoadingComments] = useState(false);
   const [sending, setSending] = useState(false);
   const [message, setMessage] = useState("");
@@ -80,6 +84,7 @@ export default function Modal({ isOpen, onClose, contentKey }: ModalProps) {
 
           setComments(filteredComments);
 
+          
           // Atualiza a contagem de likes
           const newCommentLikesCount = new Map<string, number>();
           filteredComments.forEach((comment) => {
@@ -106,6 +111,10 @@ export default function Modal({ isOpen, onClose, contentKey }: ModalProps) {
 
       if (savedLikes) setLikes(parseInt(savedLikes, 10));
       if (savedLikedFlag) setLiked(savedLikedFlag === "true");
+      const savedCommentLikes = localStorage.getItem(storageKeyCommentLikes);
+      if (savedCommentLikes) {
+        setCommentLikes(new Map(JSON.parse(savedCommentLikes)));
+      }
     }
   }, [contentKey]);
 
@@ -187,7 +196,13 @@ export default function Modal({ isOpen, onClose, contentKey }: ModalProps) {
     // ✅ 3. Marca como curtido no estado local
     setCommentLikes((prevLikes) => {
       const updatedLikes = new Map(prevLikes);
-      updatedLikes.set(commentId, true); // true = curtido
+      updatedLikes.set(commentId, true);
+
+      localStorage.setItem(
+        storageKeyCommentLikes,
+        JSON.stringify(Array.from(updatedLikes.entries())),
+      );
+
       return updatedLikes;
     });
 
@@ -199,7 +214,7 @@ export default function Modal({ isOpen, onClose, contentKey }: ModalProps) {
     });
 
     try {
-      const res = await fetch(API_URL, {
+      const res = await fetch(API_URL + `/comments`, {
         method: "POST",
         body: JSON.stringify({
           action: "like",
@@ -282,8 +297,6 @@ export default function Modal({ isOpen, onClose, contentKey }: ModalProps) {
     printWindow.print();
     printWindow.close();
   };
-
-  
 
   const handleShare = () => {
     if (!content || !contentKey) return;
@@ -373,6 +386,7 @@ export default function Modal({ isOpen, onClose, contentKey }: ModalProps) {
 
                   {/* Ícone de "Curtir" do comentário */}
                   <button
+                    disabled={commentLikes.get(comment.id)}
                     onClick={() => handleLikeComment(comment.id)}
                     className="flex items-center gap-2 text-purple-600 hover:text-rose-500 transition"
                   >

@@ -321,6 +321,74 @@ export const modalContentData: Record<string, ModalContentItem> = {
   `,
   },
 
+  "meditacao-04": {
+    title: "Ato de contrição para a Quaresma",
+    content: `
+<div style="font-size: 19px; line-height: 1.9;">
+
+<p style="text-align: center; font-weight: bold;">
+UM BELO ATO DE CONTRIÇÃO PARA A QUARESMA
+</p><br>
+
+<p style="text-align: center; font-style: italic;">
+“Aqui venho a vossos pés”, Senhor. “Não olheis o como; não estranheis o quando, não repareis no tarde, olhai somente que venho.”
+</p>
+
+<p style="text-align: center;">
+Pe. Fr. António das Chagas
+</p><br>
+
+<p style="text-align: justify;">
+Meu Deus do meu coração, da minha alma, da minha vida, das minhas entranhas, a quem tanto ofendi: tanto meu Deus, e Senhor, que não tem o mar areias, o céu estrelas, o campo flores, as plantas folhas, cujo número não exceda a multidão sem número de meus pecados, a variedade sem conto de meus delitos.
+</p><br>
+
+<p style="text-align: justify;">
+Pequei, Senhor, ofendi-vos, fiz mal na face dos Céus e da terra; afastei-me de vossa Lei, dei as costas à vossa graça, adorei a vossa ofensa, fiz ídolo da minha culpa, corri sem temor nem pejo pelos caminhos do engano, da vaidade, da perdição. Ah meu Deus! quanto me pesa do muito que vos ofendi! Pesa-me do pouco que me pesa, do muito que vos agravei: mais me pesa pela muita ingratidão com que vos tenho agravado, que pelo grande inferno, que tenho merecido.
+</p><br>
+
+<p style="text-align: justify;">
+Mas que digo, Senhor? nada me pesa, meu Deus: um pesar que me não tira a vida, não é pesar; uma pena que me não arranca esta alma, não é pena; uma dor que me não me parte o coração, ainda não é dor. Quisera ter uma pena das culpas que cometi, tamanha como as minhas culpas. Quisera ter uma mágoa da ofensa. Quisera ter uma dor igual à vossa misericórdia. Quisera com lágrimas de sangue chorar meus grandes pecados, mais pelo que tem de culpa e agravo contra vós, que pelo que tem de dano e perdição contra mim. Quisera, Senhor, que assim como no agravo foi infinita a culpa, fosse no arrependimento infinita a pena.
+</p><br>
+
+<p style="text-align: justify;">
+Ainda que eu por minha culpa perdi o ser de filho, vós, Senhor, infinitamente bom não perdestes o ser e condição que tendes de Pai.
+</p><br>
+
+<p style="text-align: justify;">
+Mas onde achei esta ânsia, senão na fonte de vossa graça? Onde acharei esta dor, senão no conhecimento de vossa bondade imensa e de minha maldade infinita? De onde hão-de de vir estas lágrimas, senão do mar de Vossa misericórdia?
+</p><br>
+
+<p style="text-align: justify;">
+Aqui venho a vossos pés; não olheis o como; não estranheis o quando, não repareis no tarde, olhai somente que venho. Oh que miserável que venho, Senhor! Oh que torpe, oh que abominável! vestido das fealdades de meus pecados, coberto das torpezas de minhas culpas, cheio de abominações e vícios de minha vida! Mas como venho a vossos pés, confiado venho, meu Deus, de achar em vossa misericórdia porto, em vossa piedade amparo, em vossa clemência refúgio, em vossa bondade remédio.
+</p><br>
+
+<p style="text-align: justify;">
+Por isso, tremendo de vossa justiça, não me valho de outro seguro, mais que do de vossa clemência: não solicito outro abrigo, senão vossa misericórdia: nesta me fio, meu Deus; porque ainda que eu por minha culpa perdi o ser de filho, vós, Senhor, infinitamente bom não perdestes o ser e condição que tendes de Pai.
+</p><br>
+
+<p style="text-align: justify;">
+Acabe pois, Senhor, em mim vossa graça infinita esta obra, que começou em mim vossa piedade infinita: acuda vossa clemência a esta miserável criatura: tende dó e compaixão desta pobre alma. Proponho com vossa graça emendar a vida, confessar as culpas, perseverar na emenda, perdoar agravos, esquecer-me de injúrias, aborrecer meus vícios, restituir como posso, satisfazer como devo a vossos Mandamentos.
+</p><br>
+
+<p style="text-align: justify;">
+Espero, Senhor, em vossa bondade infinita me haveis de perdoar todos meus pecados, pela morte e paixão de meu Senhor Jesus Cristo: porque, se nas suas chagas tendes a justiça para me castigar, também tendes a misericórdia para me favorecer. Misericórdia. Misericórdia. Misericórdia.
+</p><br>
+
+<p style="text-align: center; font-weight: bold;">
+Referências
+</p>
+
+<p style="text-align: center;">
+Composto pelo Padre Frei António das Chagas, Religioso do Seráfico Padre São Francisco da Província dos Algarves, e Pregador Apostólico; retirado do site português “Senza Pagare”.
+</p>
+
+</div>
+`,
+    summary: `
+Um profundo ato de contrição quaresmal composto pelo Padre Frei António das Chagas, expressando arrependimento sincero, confiança na misericórdia divina e propósito firme de conversão.
+`,
+  },
+
   "oracao-tema": {
     title: "A Oração Quaresmal",
     content: `

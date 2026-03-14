@@ -88,7 +88,7 @@ export default function LentenSubsidies({ openModal }: LentenSubsidiesProps) {
     },
     { 
       title: "Meditações para 4ª Semana", 
-      link: "LINK_SEMANA_4" 
+      link: "https://drive.google.com/file/d/12ZxZB5j7FCzPmZIta_ISjOVkzlOibOuK/view?usp=drive_link" 
     },
     { 
       title: "Meditações para 5ª Semana", 
