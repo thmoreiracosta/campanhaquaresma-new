@@ -389,6 +389,102 @@ Um profundo ato de contrição quaresmal composto pelo Padre Frei António das C
 `,
   },
 
+  "meditacao-05": {
+    title: "Alegra-te, Jerusalém",
+    content: `
+<div style="font-size: 19px; line-height: 1.9;">
+
+<p style="text-align: center; font-weight: bold;">
+“ALEGRA-TE, JERUSALÉM”, MAS COM O QUÊ?
+</p><br>
+
+<p style="text-align: center;">
+Michael P. Foley
+</p>
+
+<p style="text-align: center; font-style: italic;">
+Tradução: Equipe Christo Nihil Praeponere
+</p><br>
+
+<p style="text-align: justify;">
+No 4.º Domingo da Quaresma, também chamado de “Laetare” ou “da Alegria”, a Igreja se veste de paramentos róseos e faz como que uma pausa, para respirar, durante a maratona de seis semanas da Quaresma. Mas com o que exatamente nos alegramos neste dia?
+</p><br>
+
+<p style="text-align: justify;">
+Todos sabem que o Domingo Laetare, ou “da Alegria”, é um dos domingos “rosas” do ano litúrgico, servindo de interlúdio mais festivo durante a austeridade da Quaresma. É como uma pausa para respirar durante uma maratona de seis semanas. Mas com o que exatamente nos alegramos? A Coleta nos dá uma pista:
+</p><br>
+
+<p style="text-align: justify; font-style: italic;">
+Concéde, quáesumus, omnípotens Deus: ut qui ex mérito nostrae actiónis afflígimur, tuae gratiae consolatióne respirémus. Per Dóminum.
+</p>
+
+<p style="text-align: justify;">
+Nós vos suplicamos, ó Deus todo-poderoso, que, aniquilados pelo mérito das nossas ações, possamos respirar novamente pelo consolo de vossa graça. Por Nosso Senhor…
+</p><br>
+
+<p style="text-align: justify;">
+A maioria dos Missais de bolso traduz affligimur por “aflitos”, e estão corretos. Mas como, em última instância, affligere deriva de uma raiz que significa “aniquilar”, forma um contraste natural com respirare, “respirar novamente” ou “reviver”.
+</p><br>
+
+<p style="text-align: justify;">
+Recordamos a terrível tortura infligida a Santa Margarida Clitherow, que estava grávida quando foi aniquilada a pedradas durante o reinado de Elizabete I, na Sexta-Feira Santa, por ter-se recusado a renunciar à fé católica. Nessa Coleta, reconhecemos que nossas próprias ações carregam o grande peso da morte, e rezamos para que ele seja aliviado e nós possamos respirar novamente — o que reforça, por sua vez, a ideia do Domingo da Alegria como uma lufada de ar fresco em meio ao ardor da Quaresma.
+</p><br>
+
+<p style="text-align: justify;">
+Além disso, rezamos para respirar novamente ou ser reanimados pela consolação da graça de Deus. O apelo à consolação nos leva de volta ao Intróito do dia:
+</p><br>
+
+<p style="text-align: justify; font-style: italic;">
+Laetáre, Jerúsalem: et convéntum fácite, omnes qui dilígitis eam: gaudéte cum laetítia, qui in tristítia fuístis: ut exsultétis, et satiémini ab ubéribus consolatiónis vestrae. Laetátus sum in his, quae dicta sunt mihi: in domum Dómini íbimus. ℣. Glória Patri.
+</p>
+
+<p style="text-align: justify;">
+Alegra-te, ó Jerusalém, e reuni-vos todos os que a amam; exultai de alegria, vós que estáveis tristes, para que possais exultar-vos e ficar cheios a partir dos seios de vossa consolação (Is 66,10.11). Alegrei-me no que me disseram: “Iremos à casa do Senhor” (Sl 121,2). ℣. Glória ao Pai.
+</p><br>
+
+<p style="text-align: justify;">
+São os seios de Jerusalém que trazem consolação. O rito romano tradicional é maravilhosamente concreto: se Jerusalém é uma mãe, como confirma a leitura da Epístola, tirada de Gl 4,22-31, tem seios que nos consolam como uma mãe a acalmar o bebê que chora. Mas o que são exatamente os seios de nossa mãe celestial, a Igreja?
+</p><br>
+
+<p style="text-align: justify;">
+O Evangelho (cf. Jo 6,1-15) responde à pergunta. No milagre da multiplicação dos pães e dos peixes, temos uma prefiguração da Eucaristia, o Pão da Vida que desafia as leis do espaço, do tempo e da matéria, ao multiplicar de forma mística a nossa comida espiritual.
+</p><br>
+
+<p style="text-align: justify;">
+Foi essa sensibilidade que levou a bem-aventurada Juliana de Norwich a comparar ao seio materno o “doce lado aberto” do corpo crucificado de Cristo, do qual jorraram água e o preciosíssimo Sangue.
+</p><br>
+
+<p style="text-align: justify;">
+Na Inglaterra, o Domingo da Alegria é o Mothering Day, isto é, o “Domingo Materno”, o “Dia das Mães” original. Na Idade Média, estudantes e aprendizes eram autorizados a visitar sua “igreja mãe”, isto é, o templo em que foram batizados. Como estavam de visita à casa, iam ver suas mães e levavam presentes. O bolo Simnel é uma herança saborosa dessa antiga tradição.
+</p><br>
+
+<p style="text-align: justify;">
+O Domingo da Alegria, em outras palavras, é de júbilo porque sabemos que, apesar dos escândalos e corrupções que possam atingi-la, nossa santa Madre Igreja ainda tem os seios da consolação eucarística que nos nutrem e alimentam.
+</p><br>
+
+<p style="text-align: justify;">
+Por isso, quão apropriado é que recebamos a Sagrada Comunhão de joelhos e na boca! Essa não é, de fato, a posição exata de um bebê a ser amamentado, mas expressa uma atitude de súplica, abandono e receptividade. Como explica a Beata Juliana, Jesus quer que assumamos a natureza dependente e confiante de uma criança.
+</p><br>
+
+<p style="text-align: center; font-weight: bold;">
+Notas
+</p>
+
+<p style="text-align: justify;">
+No Missal Romano Quotidiano de D. Gaspar Lefebvre e dos Monges Beneditinos de S. André, a Coleta antiga do 4.º Domingo do Advento vem traduzida de forma mais bela, ainda que menos literal: “Concedei, Senhor onipotente, que nós, que somos merecidamente castigados pela nossa má conduta, encontremos refrigério na paz da vossa graça”.
+</p><br>
+
+<p style="text-align: justify;">
+Como no último domingo, o Intróito do rito antigo foi preservado no rito de Paulo VI como antífona de entrada da mesma Missa do 4.º Domingo da Quaresma.
+</p>
+
+</div>
+`,
+    summary: `
+Uma meditação sobre o Domingo Laetare, explicando a alegria no meio da Quaresma como consolação da graça de Deus, simbolizada na maternidade da Igreja e na Eucaristia que nutre espiritualmente os fiéis.
+`,
+  },
+
   "oracao-tema": {
     title: "A Oração Quaresmal",
     content: `
