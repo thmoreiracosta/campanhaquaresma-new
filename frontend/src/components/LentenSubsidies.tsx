@@ -10,6 +10,7 @@ import confissao from "../assets/confissao.png";
 import robertSarah from "../assets/robertSarah.png";
 import robertSarahII from "../assets/robertSarahII.png";
 import bentoXVI from "../assets/bentoXVI.png";
+import sermao from "../assets/sermao.png";
 
 interface LentenSubsidiesProps {
   openModal: (key: string) => void;
@@ -130,6 +131,11 @@ export default function LentenSubsidies({ openModal }: LentenSubsidiesProps) {
       img: robertSarahII,
       link: "https://drive.google.com/file/d/1hi57HjQ1cRytw64kl9Z5GqvJ76dz6y-a/view?usp=drive_link",
       title: "Robert Sarah - A Vida Espiritual",
+    },
+    {
+      img: sermao,
+      link: "https://drive.google.com/file/d/1dzZsNFQnEPjth4GWxURG19Tj7HOlyEnx/view?usp=drive_link",
+      title: "Sermão de São Leão Magno",
     },
   ];
 
