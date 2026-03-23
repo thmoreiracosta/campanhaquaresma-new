@@ -93,7 +93,7 @@ export default function LentenSubsidies({ openModal }: LentenSubsidiesProps) {
     },
     { 
       title: "Meditações para 5ª Semana", 
-      link: "LINK_SEMANA_5" 
+      link: "https://drive.google.com/file/d/1f6pnh8yZuq-vmueuhELQzTfMC1nQqvSS/view?usp=drive_link" 
     },
     { 
       title: "Meditações para Semana Santa", 
