@@ -430,6 +430,15 @@ A maioria dos Missais de bolso traduz affligimur por “aflitos”, e estão cor
 Recordamos a terrível tortura infligida a Santa Margarida Clitherow, que estava grávida quando foi aniquilada a pedradas durante o reinado de Elizabete I, na Sexta-Feira Santa, por ter-se recusado a renunciar à fé católica. Nessa Coleta, reconhecemos que nossas próprias ações carregam o grande peso da morte, e rezamos para que ele seja aliviado e nós possamos respirar novamente — o que reforça, por sua vez, a ideia do Domingo da Alegria como uma lufada de ar fresco em meio ao ardor da Quaresma.
 </p><br>
 
+<iframe 
+  width="100%" 
+  height="460" 
+  src="https://www.youtube.com/embed/0oI7Eqg9Jfg" 
+  frameborder="0" 
+  allowfullscreen
+  style="margin: 20px 0; border-radius:10px;">
+</iframe>
+
 <p style="text-align: justify;">
 Além disso, rezamos para respirar novamente ou ser reanimados pela consolação da graça de Deus. O apelo à consolação nos leva de volta ao Intróito do dia:
 </p><br>
@@ -445,6 +454,15 @@ Alegra-te, ó Jerusalém, e reuni-vos todos os que a amam; exultai de alegria, v
 <p style="text-align: justify;">
 São os seios de Jerusalém que trazem consolação. O rito romano tradicional é maravilhosamente concreto: se Jerusalém é uma mãe, como confirma a leitura da Epístola, tirada de Gl 4,22-31, tem seios que nos consolam como uma mãe a acalmar o bebê que chora. Mas o que são exatamente os seios de nossa mãe celestial, a Igreja?
 </p><br>
+
+
+<div style="text-align: center;">
+    <img src="/cristo2.jpg" 
+         style="max-width: 100%; border-radius: 8px;" />
+    <p style="font-size: 14px; font-style: italic;">
+        “Milagre dos pães e dos peixes”, por Giovanni Lanfranco.
+    </p>
+</div><br>
 
 <p style="text-align: justify;">
 O Evangelho (cf. Jo 6,1-15) responde à pergunta. No milagre da multiplicação dos pães e dos peixes, temos uma prefiguração da Eucaristia, o Pão da Vida que desafia as leis do espaço, do tempo e da matéria, ao multiplicar de forma mística a nossa comida espiritual.
