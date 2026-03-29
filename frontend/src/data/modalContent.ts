@@ -485,7 +485,7 @@ Uma meditação sobre o Domingo Laetare, explicando a alegria no meio da Quaresm
 `,
   },
 
-  "meditacao-06": {
+ "meditacao-domingo-ramos": {
     title: "Humildade e Cruz",
     content: `
 <div style="font-size: 19px; line-height: 1.9;">
@@ -507,61 +507,120 @@ Tradução: Equipe Christo Nihil Præponere
 </p><br>
 
 <p style="text-align: justify;">
-No calendário tradicional, o Domingo de Ramos continua o tema da Paixão e da Cruz, iniciado na semana anterior, inaugura a Semana Santa e orienta nosso olhar para o Domingo de Páscoa, luz ao fim do caminho quaresmal. Tudo isso se torna evidente na oração da Coleta da Missa.
+No calendário [romano] tradicional, o Domingo de Ramos continua o tema da Paixão e da Cruz, começado há uma semana, inaugura a Semana Santa e faz olhar com esperança para o Domingo de Páscoa, nossa luz no fim do túnel quaresmal. Tudo isso fica evidente na Coleta da Missa:
+</p><br>
+
+<p style="text-align: justify; font-style: italic;">
+Omnípotens sempitérne Deus, qui humáno géneri, ad imitándum humilitátis exémplum, Salvatórem nostrum carnem súmere et crucem subíre fecísti: concéde propítius; ut et patiéntiæ ipsíus habére documénta et resurrectionis consórtia mereámur. Per eúndem Dóminum nostrum.
+</p>
+
+<p style="text-align: justify;">
+— Deus eterno e todo-poderoso, que, para dar ao gênero humano um exemplo de humildade a ser imitado, fizestes o nosso Salvador assumir a carne e suportar a Cruz: concedei-nos, propício, que mereçamos viver suas lições de paciência e associar-nos à sua ressurreição. Pelo mesmo Cristo, Senhor nosso.
 </p><br>
 
 <p style="text-align: justify;">
-A liturgia não apenas proclama a Sagrada Escritura, mas também a assimila profundamente e a transforma em oração. É o que se pode chamar de “eructação espiritual”: aquilo que foi ouvido, meditado e interiorizado é devolvido a Deus em forma de súplica viva e pessoal.
+A Coleta é um excelente exemplo do que poderíamos chamar de “eructação espiritual”. Os debates acerca das chamadas “duas formas” do rito romano centram-se muitas vezes em análises quantitativas do número de referências explícitas à Bíblia, como se mais passagens bíblicas fossem o mesmo que liturgia melhor.
 </p><br>
 
 <p style="text-align: justify;">
-Santo Agostinho descreve esse processo com vigor: aprendemos ao escutar, mas “arrotamos” ao pregar — isto é, devolvemos aquilo que assimilamos. Assim também as orações litúrgicas nascem de uma alma que se alimentou da Palavra de Deus.
+Historicamente, no entanto, as liturgias apostólicas se desenvolveram em função de outras prioridades. Obviamente, a Sagrada Escritura é citada no Intróito, nas leituras etc.; mas, além de proclamar ou entoar passagens bíblicas para nos instruir ou canalizar nossas emoções e causar a oração, a liturgia inclui orações que são efeitos da devida apropriação da Escritura.
 </p><br>
 
 <p style="text-align: justify;">
-A Coleta do Domingo de Ramos reflete diretamente o ensinamento do Novo Testamento: Cristo se humilhou até a morte de cruz e nos deixou exemplo para seguirmos seus passos. Sua vida é modelo, e sua Paixão, caminho.
+O Salmo 44, 2, na tradução clássica do Pe. Antônio Pereira de Figueiredo, é: “Saiu do meu coração com grande ímpeto uma palavra boa”, mas uma tradução mais literal seria: “Meu coração arrotou [eructavit] uma boa palavra”. A ideia é que, ao ouvir e guardar a Palavra de Deus, nós nos apropriemos dela (o que significa literalmente torná-la nossa) e, depois de ter digerido adequadamente esses alimentos verbais do alto, liberemos nossas próprias boas palavras na vida, na oração ou na pregação. Santo Agostinho escreve:
 </p><br>
 
 <p style="text-align: justify;">
-Por isso, a imitação de Cristo está no centro da vida cristã. Somos chamados não apenas a admirá-lo, mas a segui-lo concretamente: tomar a cruz, perseverar na dor e participar de seus sofrimentos, para também participar de sua glória.
+Comes quando aprendes; arrotas quando pregas: todavia, arrotas o que comeste. Finalmente, aquele ávido conviva, o apóstolo João, a quem não bastava a própria mesa do Senhor, mas precisava reclinar sobre o peito do Senhor (cf. Jo 13, 23) e haurir os segredos divinos daquele esconderijo, que arrotou? “No princípio era o Verbo e o Verbo estava com Deus”.
 </p><br>
 
 <p style="text-align: justify;">
-Essa dinâmica aparece de forma bela na estrutura da oração: Cristo desce ao assumir a carne e ao sofrer a Cruz; nós, ao imitá-lo, encontramos esse mesmo caminho e somos elevados com Ele na ressurreição.
+Assim como a Bíblia é o produto de um bom “comer” e “arrotar” da Revelação divina, também as orações da sagrada liturgia são o produto de um bom “comer” e “arrotar” da Bíblia.
 </p><br>
 
 <p style="text-align: justify;">
-O Domingo de Ramos torna visível essa verdade também na liturgia externa: a procissão com ramos recorda a entrada humilde de Jesus em Jerusalém, não como rei guerreiro, mas como servo manso, montado em um jumento.
+Vemos esse princípio em ação na Coleta do Domingo de Ramos, que se apropria do que ensina o Novo Testamento sobre Jesus Cristo e o rearticula, especialmente dois versículos: “Humilhou-se ainda mais, tornando-se obediente até a morte, e morte de cruz” (Fl 2, 8); e “Também Cristo padeceu por vós, deixando-vos exemplo para que sigais os seus passos” (1Pd 2, 21).
 </p><br>
 
 <p style="text-align: justify;">
-Nada disso acontece sem liberdade: o Filho aceita plenamente a vontade do Pai. Ele se entrega voluntariamente à Paixão, transformando a Cruz — instrumento de morte — em fonte de vida.
+Essas duas alusões prenunciam também a adoração futura: o primeiro versículo ganha destaque no Ofício Divino do Tríduo Pascal, e o segundo aparece na Epístola para o 2.º Domingo depois da Páscoa.
 </p><br>
 
 <p style="text-align: justify;">
-Assim, somos convidados a descer com Cristo na humildade e no sofrimento, para subir com Ele na vitória da ressurreição. Que nossa vida imite esta oração e se torne, ela mesma, uma resposta viva a Deus.
+Outra “eructação espiritual” ocorre no sinônimo, ou complemento, do exemplum da Coleta, os curiosos documenta, que traduzimos como “lições”. Cristo é nosso Mestre precisamente por sua humildade: “Recebei minha doutrina, porque eu sou manso e humilde de coração” (Mt 11, 29). E temos suas lições de humildade graças aos documentos do Novo Testamento.
+</p><br>
+
+<p style="text-align: justify;">
+A imitação é fundamental para a vida cristã. Imitamos Jesus Cristo, nosso exemplo, e imitamos aqueles que o imitaram, ou seja, os santos. Escreve São Basílio, o Grande:
+</p><br>
+
+<p style="text-align: justify;">
+A imitação de Cristo é necessária para a perfeição da vida, não apenas em seu exemplo vivo de humildade, paciência e liberdade da ira, mas também em sua própria morte. Como Paulo, o imitador de Cristo, diz: “Tornando-me semelhante a ele na morte, com a esperança de conseguir a ressurreição dentre os mortos”.
+</p><br>
+
+<p style="text-align: justify;">
+O tema da imitação, portanto, põe em destaque a nossa participação no drama da Paixão: também nós devemos tomar nossa cruz e segui-lo a fim de completar o que falta aos sofrimentos de Cristo. É especialmente oportuno recordar esse aspecto da fé neste tempo do ano litúrgico.
+</p><br>
+
+<p style="text-align: justify;">
+Em regra, o sacerdote faz esta oração depois de participar com os fiéis da bênção dos ramos e da procissão que imita a entrada humilde de Nosso Senhor em Jerusalém, humilde porque Ele entrou montado num jumento, e não em um cavalo como um rei guerreiro.
+</p><br>
+
+<p style="text-align: justify;">
+A palavra fecisti, que traduzimos como “fizestes”, pode soar forte, mas o sentido teológico é claro: o Pai quis a salvação pela Cruz, e o Filho livremente aceitou esse caminho.
+</p><br>
+
+<p style="text-align: justify;">
+Como cantamos no Tempo da Paixão: “Só para ela nascido, livre se entrega à Paixão”.
+</p><br>
+
+<p style="text-align: justify;">
+Finalmente, a Coleta é elegantemente construída em forma de quiasmo:
+</p><br>
+
+<p style="text-align: justify;">
+O Salvador tomando nossa carne (A)<br>
+O Salvador suportando a Cruz (B)<br>
+Nosso aprendizado com sua perseverança (B)<br>
+Nossa comunhão com sua ressurreição (A)
+</p><br>
+
+<p style="text-align: justify;">
+Cristo desce primeiro por sua Encarnação; depois, vai ainda mais fundo na humilhação da Cruz. Nós o encontramos nesse vale ao imitá-lo, e assim podemos subir com Ele na ressurreição.
+</p><br>
+
+<p style="text-align: justify;">
+Rezemos para que nossa vida imite esta bela oração.
 </p><br>
 
 <p style="text-align: center; font-weight: bold;">
 Notas
 </p>
 
-<p style="text-align: justify;">
-Na liturgia antiga, o 5.º Domingo da Quaresma era chamado de Domingo da Paixão, marcando o início de um período mais intenso dentro do tempo quaresmal.
+<p style="text-align: justify; font-style: italic;">
+Na liturgia antiga, o 5.º Domingo da Quaresma era o 1.º Domingo da Paixão. Começava-se um tempo diferente dentro do próprio tempo quaresmal. Daí a tradição de se velar as imagens, própria das últimas duas semanas da Quaresma.
 </p><br>
 
-<p style="text-align: justify;">
-A oração da Coleta do Domingo de Ramos permanece a mesma tanto no rito tradicional quanto no moderno, ainda que com pequenas diferenças de tradução.
+<p style="text-align: justify; font-style: italic;">
+Em latim, a oração Coleta do Domingo de Ramos é a mesma tanto no rito antigo quanto no novo. A tradução usada no texto, porém, prima pela literalidade e difere um pouco da tradução litúrgica brasileira.
 </p><br>
 
-<p style="text-align: justify;">
-O tema da Cruz como fonte de vida também aparece no Prefácio tradicional da Santa Cruz, destacando o paradoxo cristão da vitória através do sacrifício.
+<p style="text-align: justify; font-style: italic;">
+Hoje, no rito novo, esta leitura da Primeira Carta de São Pedro faz-se no 4.º Domingo da Páscoa, Ano A.
+</p><br>
+
+<p style="text-align: justify; font-style: italic;">
+No rito de Paulo VI, o Prefácio prescrito para o Domingo de Ramos é outro. Este, porém, foi mantido para a festa da Exaltação da Santa Cruz.
+</p><br>
+
+<p style="text-align: justify; font-style: italic;">
+Trata-se do hino “Pange lingua”, de Venâncio Fortunato, utilizado no Tempo da Paixão e preservado na tradição litúrgica com adaptações ao longo dos séculos.
 </p>
 
 </div>
 `,
     summary: `
-Uma meditação sobre o Domingo de Ramos que destaca a humildade de Cristo, sua Paixão como exemplo a ser imitado e o chamado à participação dos fiéis no mistério da Cruz para alcançar a ressurreição.
+Uma meditação completa sobre o Domingo de Ramos, explorando a oração da Coleta, o conceito de “eructação espiritual”, a imitação de Cristo na Paixão e a estrutura teológica profunda da liturgia que conduz da Cruz à ressurreição.
 `,
 },
 
