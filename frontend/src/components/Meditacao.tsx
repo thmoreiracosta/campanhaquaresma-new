@@ -37,13 +37,23 @@ export default function Meditacao({ openModal }: MeditacaoProps) {
   useEffect(() => {
     if (letreiroRef.current) {
       const container = letreiroRef.current;
-      const activeItem = container.children[currentIndex] as HTMLElement;
+      const inner = container.firstElementChild as HTMLElement;
+      const activeItem = inner.children[currentIndex] as HTMLElement;
+
       if (activeItem) {
         const offset =
-          activeItem.offsetLeft +
-          activeItem.offsetWidth / 2 -
-          container.offsetWidth / 2;
-        container.scrollTo({ left: offset, behavior: "smooth" });
+          activeItem.offsetLeft -
+          container.offsetWidth / 2 +
+          activeItem.offsetWidth / 2;
+
+        const maxScroll = container.scrollWidth - container.clientWidth;
+
+        const safeOffset = Math.max(0, Math.min(offset, maxScroll));
+
+        container.scrollTo({
+          left: safeOffset,
+          behavior: "smooth",
+        });
       }
     }
   }, [currentIndex]);
@@ -77,17 +87,16 @@ export default function Meditacao({ openModal }: MeditacaoProps) {
           ref={letreiroRef}
           className="relative w-full overflow-x-auto scrollbar-none mb-4 py-2 px-2 sm:px-4"
         >
-          <div className="flex gap-3 sm:gap-4">
+          <div className="flex gap-3 sm:gap-4 pr-20">
             {meditacoes.map((med, index) => (
               <span
                 key={med.key}
                 onClick={() => setCurrentIndex(index)}
                 className={`
                   flex-shrink-0 px-5 py-2 sm:py-1 rounded-full cursor-pointer font-semibold text-sm sm:text-base transition-all duration-300
-                  ${
-                    index === currentIndex
-                      ? "bg-gradient-to-r from-rose-400 to-purple-400 text-white shadow-xl scale-105"
-                      : "bg-purple-200/30 dark:bg-purple-800/30 text-purple-900 dark:text-rose-200 hover:bg-purple-300/60 dark:hover:bg-purple-700/60 hover:scale-105"
+                  ${index === currentIndex
+                    ? "bg-gradient-to-r from-rose-400 to-purple-400 text-white shadow-xl scale-105"
+                    : "bg-purple-200/30 dark:bg-purple-800/30 text-purple-900 dark:text-rose-200 hover:bg-purple-300/60 dark:hover:bg-purple-700/60 hover:scale-105"
                   }
                 `}
               >
