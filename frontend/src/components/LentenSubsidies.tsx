@@ -97,7 +97,7 @@ export default function LentenSubsidies({ openModal }: LentenSubsidiesProps) {
     },
     { 
       title: "Meditações para Semana Santa", 
-      link: "LINK_SEMANA_6" 
+      link: "https://drive.google.com/file/d/1zZy0OvG7cIWGV2HdyPW5J8gAaWTL0RxW/view?usp=drive_link" 
     },
   ];
 

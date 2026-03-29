@@ -485,6 +485,86 @@ Uma meditação sobre o Domingo Laetare, explicando a alegria no meio da Quaresm
 `,
   },
 
+  "meditacao-06": {
+    title: "Humildade e Cruz",
+    content: `
+<div style="font-size: 19px; line-height: 1.9;">
+
+<p style="text-align: center; font-weight: bold;">
+UMA BELA ORAÇÃO PARA O DOMINGO DE RAMOS
+</p><br>
+
+<p style="text-align: center;">
+Michael P. Foley
+</p>
+
+<p style="text-align: center; font-style: italic;">
+Tradução: Equipe Christo Nihil Præponere
+</p><br>
+
+<p style="text-align: justify; font-style: italic;">
+“Deus eterno e todo-poderoso, que, para dar ao gênero humano um exemplo de humildade a ser imitado, fizestes o nosso Salvador assumir a carne e suportar a Cruz: concedei-nos, propício, que mereçamos viver suas lições de paciência e associar-nos à sua ressurreição.”
+</p><br>
+
+<p style="text-align: justify;">
+No calendário tradicional, o Domingo de Ramos continua o tema da Paixão e da Cruz, iniciado na semana anterior, inaugura a Semana Santa e orienta nosso olhar para o Domingo de Páscoa, luz ao fim do caminho quaresmal. Tudo isso se torna evidente na oração da Coleta da Missa.
+</p><br>
+
+<p style="text-align: justify;">
+A liturgia não apenas proclama a Sagrada Escritura, mas também a assimila profundamente e a transforma em oração. É o que se pode chamar de “eructação espiritual”: aquilo que foi ouvido, meditado e interiorizado é devolvido a Deus em forma de súplica viva e pessoal.
+</p><br>
+
+<p style="text-align: justify;">
+Santo Agostinho descreve esse processo com vigor: aprendemos ao escutar, mas “arrotamos” ao pregar — isto é, devolvemos aquilo que assimilamos. Assim também as orações litúrgicas nascem de uma alma que se alimentou da Palavra de Deus.
+</p><br>
+
+<p style="text-align: justify;">
+A Coleta do Domingo de Ramos reflete diretamente o ensinamento do Novo Testamento: Cristo se humilhou até a morte de cruz e nos deixou exemplo para seguirmos seus passos. Sua vida é modelo, e sua Paixão, caminho.
+</p><br>
+
+<p style="text-align: justify;">
+Por isso, a imitação de Cristo está no centro da vida cristã. Somos chamados não apenas a admirá-lo, mas a segui-lo concretamente: tomar a cruz, perseverar na dor e participar de seus sofrimentos, para também participar de sua glória.
+</p><br>
+
+<p style="text-align: justify;">
+Essa dinâmica aparece de forma bela na estrutura da oração: Cristo desce ao assumir a carne e ao sofrer a Cruz; nós, ao imitá-lo, encontramos esse mesmo caminho e somos elevados com Ele na ressurreição.
+</p><br>
+
+<p style="text-align: justify;">
+O Domingo de Ramos torna visível essa verdade também na liturgia externa: a procissão com ramos recorda a entrada humilde de Jesus em Jerusalém, não como rei guerreiro, mas como servo manso, montado em um jumento.
+</p><br>
+
+<p style="text-align: justify;">
+Nada disso acontece sem liberdade: o Filho aceita plenamente a vontade do Pai. Ele se entrega voluntariamente à Paixão, transformando a Cruz — instrumento de morte — em fonte de vida.
+</p><br>
+
+<p style="text-align: justify;">
+Assim, somos convidados a descer com Cristo na humildade e no sofrimento, para subir com Ele na vitória da ressurreição. Que nossa vida imite esta oração e se torne, ela mesma, uma resposta viva a Deus.
+</p><br>
+
+<p style="text-align: center; font-weight: bold;">
+Notas
+</p>
+
+<p style="text-align: justify;">
+Na liturgia antiga, o 5.º Domingo da Quaresma era chamado de Domingo da Paixão, marcando o início de um período mais intenso dentro do tempo quaresmal.
+</p><br>
+
+<p style="text-align: justify;">
+A oração da Coleta do Domingo de Ramos permanece a mesma tanto no rito tradicional quanto no moderno, ainda que com pequenas diferenças de tradução.
+</p><br>
+
+<p style="text-align: justify;">
+O tema da Cruz como fonte de vida também aparece no Prefácio tradicional da Santa Cruz, destacando o paradoxo cristão da vitória através do sacrifício.
+</p>
+
+</div>
+`,
+    summary: `
+Uma meditação sobre o Domingo de Ramos que destaca a humildade de Cristo, sua Paixão como exemplo a ser imitado e o chamado à participação dos fiéis no mistério da Cruz para alcançar a ressurreição.
+`,
+},
+
   "oracao-tema": {
     title: "A Oração Quaresmal",
     content: `
