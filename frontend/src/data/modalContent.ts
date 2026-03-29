@@ -485,7 +485,7 @@ Uma meditação sobre o Domingo Laetare, explicando a alegria no meio da Quaresm
 `,
   },
 
- "meditacao-domingo-ramos": {
+ "meditacao-06": {
     title: "Humildade e Cruz",
     content: `
 <div style="font-size: 19px; line-height: 1.9;">
