@@ -490,32 +490,12 @@ Uma meditação sobre o Domingo Laetare, explicando a alegria no meio da Quaresm
     content: `
 <div style="font-size: 19px; line-height: 1.9;">
 
-<p style="text-align: center; font-weight: bold;">
-UMA BELA ORAÇÃO PARA O DOMINGO DE RAMOS
-</p><br>
-
-<p style="text-align: center;">
-Michael P. Foley
-</p>
-
-<p style="text-align: center; font-style: italic;">
-Tradução: Equipe Christo Nihil Præponere
+<p style="text-align: justify;">
+No calendário [romano] tradicional, o Domingo de Ramos continua o tema da Paixão e da Cruz, começado há uma semana [i], inaugura a Semana Santa e faz olhar com esperança para o Domingo de Páscoa, nossa luz no fim do túnel quaresmal. Tudo isso fica evidente na Coleta da Missa:
 </p><br>
 
 <p style="text-align: justify; font-style: italic;">
-“Deus eterno e todo-poderoso, que, para dar ao gênero humano um exemplo de humildade a ser imitado, fizestes o nosso Salvador assumir a carne e suportar a Cruz: concedei-nos, propício, que mereçamos viver suas lições de paciência e associar-nos à sua ressurreição.”
-</p><br>
-
-<p style="text-align: justify;">
-No calendário [romano] tradicional, o Domingo de Ramos continua o tema da Paixão e da Cruz, começado há uma semana, inaugura a Semana Santa e faz olhar com esperança para o Domingo de Páscoa, nossa luz no fim do túnel quaresmal. Tudo isso fica evidente na Coleta da Missa:
-</p><br>
-
-<p style="text-align: justify; font-style: italic;">
-Omnípotens sempitérne Deus, qui humáno géneri, ad imitándum humilitátis exémplum, Salvatórem nostrum carnem súmere et crucem subíre fecísti: concéde propítius; ut et patiéntiæ ipsíus habére documénta et resurrectionis consórtia mereámur. Per eúndem Dóminum nostrum.
-</p>
-
-<p style="text-align: justify;">
-— Deus eterno e todo-poderoso, que, para dar ao gênero humano um exemplo de humildade a ser imitado, fizestes o nosso Salvador assumir a carne e suportar a Cruz: concedei-nos, propício, que mereçamos viver suas lições de paciência e associar-nos à sua ressurreição. Pelo mesmo Cristo, Senhor nosso.
+Omnípotens sempitérne Deus, qui humáno géneri, ad imitándum humilitátis exémplum, Salvatórem nostrum carnem súmere et crucem subíre fecísti: concéde propítius; ut et patiéntiæ ipsíus habére documénta et resurrectionis consórtia mereámur. Per eúndem Dóminum nostrum. — Deus eterno e todo-poderoso, que, para dar ao gênero humano um exemplo de humildade a ser imitado, fizestes o nosso Salvador assumir a carne e suportar a Cruz: concedei-nos, propício, que mereçamos viver suas lições de paciência e associar-nos à sua ressurreição. Pelo mesmo Cristo, Senhor nosso [ii].
 </p><br>
 
 <p style="text-align: justify;">
@@ -523,27 +503,27 @@ A Coleta é um excelente exemplo do que poderíamos chamar de “eructação esp
 </p><br>
 
 <p style="text-align: justify;">
-Historicamente, no entanto, as liturgias apostólicas se desenvolveram em função de outras prioridades. Obviamente, a Sagrada Escritura é citada no Intróito, nas leituras etc.; mas, além de proclamar ou entoar passagens bíblicas para nos instruir ou canalizar nossas emoções e causar a oração, a liturgia inclui orações que são efeitos da devida apropriação da Escritura.
+Historicamente, no entanto, as liturgias apostólicas se desenvolveram em função de outras prioridades. Obviamente, a Sagrada Escritura é citada no Intróito, nas leituras etc.; mas, além de proclamar ou entoar passagens bíblicas para nos instruir ou canalizar nossas emoções e causar a oração, a liturgia inclui orações que são efeitos da devida apropriação da Escritura. O Salmo 44, 2, na tradução clássica do Pe. Antônio Pereira de Figueiredo, é: “Saiu do meu coração com grande ímpeto uma palavra boa”, mas uma tradução mais literal seria: “Meu coração arrotou [eructavit] uma boa palavra”. A ideia é que, ao ouvir e guardar a Palavra de Deus, nós nos apropriemos dela (o que significa literalmente torná-la nossa) e, depois de ter digerido adequadamente esses alimentos verbais do alto, liberemos nossas próprias boas palavras na vida, na oração ou na pregação. Santo Agostinho escreve:
 </p><br>
 
 <p style="text-align: justify;">
-O Salmo 44, 2, na tradução clássica do Pe. Antônio Pereira de Figueiredo, é: “Saiu do meu coração com grande ímpeto uma palavra boa”, mas uma tradução mais literal seria: “Meu coração arrotou [eructavit] uma boa palavra”. A ideia é que, ao ouvir e guardar a Palavra de Deus, nós nos apropriemos dela (o que significa literalmente torná-la nossa) e, depois de ter digerido adequadamente esses alimentos verbais do alto, liberemos nossas próprias boas palavras na vida, na oração ou na pregação. Santo Agostinho escreve:
+Comes quando aprendes; arrotas quando pregas: todavia, arrotas o que comeste. Finalmente, aquele ávido conviva, o apóstolo João, a quem não bastava a própria mesa do Senhor, mas precisava reclinar sobre o peito do Senhor (cf. Jo 13, 23) e haurir os segredos divinos daquele esconderijo, que arrotou? “No princípio era o Verbo e o Verbo estava com Deus” (Enarratio in Psalmum 145, 9).
 </p><br>
 
 <p style="text-align: justify;">
-Comes quando aprendes; arrotas quando pregas: todavia, arrotas o que comeste. Finalmente, aquele ávido conviva, o apóstolo João, a quem não bastava a própria mesa do Senhor, mas precisava reclinar sobre o peito do Senhor (cf. Jo 13, 23) e haurir os segredos divinos daquele esconderijo, que arrotou? “No princípio era o Verbo e o Verbo estava com Deus”.
+Assim como a Bíblia é o produto de um bom “comer” e “arrotar” da Revelação divina, também as orações da sagrada liturgia são o produto de um bom “comer” e “arrotar” da Bíblia. Vemos esse princípio em ação na Coleta do Domingo de Ramos, que se apropria do que ensina o Novo Testamento sobre Jesus Cristo e o rearticula, especialmente dois versículos: “Humilhou-se [humiliavit] ainda mais, tornando-se obediente até a morte, e morte de cruz” (Fl 2, 8); e “Também Cristo pa­deceu por vós, deixando-vos exemplo [exemplum] para que sigais os seus passos” (1Pd 2, 21).
 </p><br>
 
-<p style="text-align: justify;">
-Assim como a Bíblia é o produto de um bom “comer” e “arrotar” da Revelação divina, também as orações da sagrada liturgia são o produto de um bom “comer” e “arrotar” da Bíblia.
-</p><br>
+<div style="text-align: center;">
+    <img src="/cristo.jpg" 
+         style="max-width: 100%; border-radius: 8px;" />
+    <p style="font-size: 14px; font-style: italic;">
+        Jesus cai sob o peso da Cruz, por Karl Geiger.
+    </p>
+</div><br>
 
 <p style="text-align: justify;">
-Vemos esse princípio em ação na Coleta do Domingo de Ramos, que se apropria do que ensina o Novo Testamento sobre Jesus Cristo e o rearticula, especialmente dois versículos: “Humilhou-se ainda mais, tornando-se obediente até a morte, e morte de cruz” (Fl 2, 8); e “Também Cristo padeceu por vós, deixando-vos exemplo para que sigais os seus passos” (1Pd 2, 21).
-</p><br>
-
-<p style="text-align: justify;">
-Essas duas alusões prenunciam também a adoração futura: o primeiro versículo ganha destaque no Ofício Divino do Tríduo Pascal, e o segundo aparece na Epístola para o 2.º Domingo depois da Páscoa.
+Essas duas alusões prenunciam também a adoração futura: o primeiro versículo ganha destaque no Ofício Divino do Tríduo Pascal, e o segundo aparece na Epístola para o 2.º Domingo depois da Páscoa [iii].
 </p><br>
 
 <p style="text-align: justify;">
@@ -551,46 +531,42 @@ Outra “eructação espiritual” ocorre no sinônimo, ou complemento, do exemp
 </p><br>
 
 <p style="text-align: justify;">
-A imitação é fundamental para a vida cristã. Imitamos Jesus Cristo, nosso exemplo, e imitamos aqueles que o imitaram, ou seja, os santos. Escreve São Basílio, o Grande:
+A imitação é fundamental para a vida cristã. Imitamos Jesus Cristo, nosso exemplo, e imitamos aqueles que o imitaram, ou seja, os santos (cf. 1Cor 4, 6; 11, 1; Fl 3, 17; 1Ts 1, 6; 2, 14). Escreve São Basílio, o Grande:
 </p><br>
 
 <p style="text-align: justify;">
-A imitação de Cristo é necessária para a perfeição da vida, não apenas em seu exemplo vivo de humildade, paciência e liberdade da ira, mas também em sua própria morte. Como Paulo, o imitador de Cristo, diz: “Tornando-me semelhante a ele na morte, com a esperança de conseguir a ressurreição dentre os mortos”.
+A imitação de Cristo é necessária para a perfeição da vida, não apenas em seu exemplo vivo de humildade, paciência e liberdade da ira, mas também em sua própria morte. Como [São] Paulo, o imitador de Cristo, diz: “Tornando-me semelhante a ele na morte, com a esperança de conseguir a ressurreição dentre os mortos” (Fl 3, 10s) (Sobre o Espírito Santo 15, 35).
 </p><br>
 
 <p style="text-align: justify;">
-O tema da imitação, portanto, põe em destaque a nossa participação no drama da Paixão: também nós devemos tomar nossa cruz e segui-lo a fim de completar o que falta aos sofrimentos de Cristo. É especialmente oportuno recordar esse aspecto da fé neste tempo do ano litúrgico.
+O tema da imitação, portanto, põe em destaque a nossa participação no drama da Paixão: também nós devemos tomar nossa cruz e segui-lo a fim de completar o que falta aos sofrimentos de Cristo (cf. Cl 1, 24). É especialmente oportuno recordar esse aspecto da fé neste tempo do ano litúrgico e nesta celebração do Domingo de Ramos. Em regra, o sacerdote faz esta oração depois de participar com os fiéis da bênção dos ramos e da procissão que imita a entrada humilde de Nosso Senhor em Jerusalém, humilde porque Ele entrou montado num jumento, e não em um cavalo como um triunfante rei guerreiro.
 </p><br>
 
 <p style="text-align: justify;">
-Em regra, o sacerdote faz esta oração depois de participar com os fiéis da bênção dos ramos e da procissão que imita a entrada humilde de Nosso Senhor em Jerusalém, humilde porque Ele entrou montado num jumento, e não em um cavalo como um rei guerreiro.
+A palavra fecisti, que traduzimos como “fizestes”, soa um pouco forte; poderia dar a impressão de que o Pai forçou o Filho a sofrer tais humilhações. Mas, entendido na clave teológica certa, o texto é sólido. O Prefácio da Cruz usado nesta Missa inclui o seguinte:
+</p><br>
+
+<p style="text-align: justify; font-style: italic;">
+Dómine, sancte Pater, omnípotens ætérne Deus: qui salútem humáni géneris in ligno Crucis constituísti: ut, unde mors oriebátur, inde vita resúrgeret: et, qui in ligno vincébat, in ligno quoque vincerétur… — Senhor, Pai santo, Deus onipotente e eterno, que no madeiro da Cruz pusestes a salvação do gênero humano, a fim de que, donde nascera a morte, daí ressurgisse a vida, e aquele que no madeiro vencera, no madeiro fosse vencido… [iv].
 </p><br>
 
 <p style="text-align: justify;">
-A palavra fecisti, que traduzimos como “fizestes”, pode soar forte, mas o sentido teológico é claro: o Pai quis a salvação pela Cruz, e o Filho livremente aceitou esse caminho.
+“Fazer” e “estabelecer” o Filho, porém, são verbos que não se realizam sem o pleno consentimento e a cooperação do Filho. Como cantamos no Tempo da Paixão, durante o hino de Laudes, se volente, natus ad hoc, Passioni deditus, segundo a redação original do hino Pange lingua, de Venâncio Fortunato. Na tradução litúrgica brasileira: “Só para ela nascido, livre se entrega à Paixão” [v].
 </p><br>
 
 <p style="text-align: justify;">
-Como cantamos no Tempo da Paixão: “Só para ela nascido, livre se entrega à Paixão”.
+Finalmente, a Coleta é elegantemente construída. Juntas, a dupla descrição da atividade do Salvador e de nossa dupla petição ao Pai formam um quiasmo no padrão ABBA:
 </p><br>
 
 <p style="text-align: justify;">
-Finalmente, a Coleta é elegantemente construída em forma de quiasmo:
-</p><br>
-
-<p style="text-align: justify;">
-O Salvador tomando nossa carne (A)<br>
+O Salvador tomando nossa carne [mortal] (A)<br>
 O Salvador suportando a Cruz (B)<br>
 Nosso aprendizado com sua perseverança (B)<br>
-Nossa comunhão com sua ressurreição (A)
+Nossa comunhão com sua carne ressuscitada [sua ressurreição] (A)
 </p><br>
 
 <p style="text-align: justify;">
-Cristo desce primeiro por sua Encarnação; depois, vai ainda mais fundo na humilhação da Cruz. Nós o encontramos nesse vale ao imitá-lo, e assim podemos subir com Ele na ressurreição.
-</p><br>
-
-<p style="text-align: justify;">
-Rezemos para que nossa vida imite esta bela oração.
+Podemos imaginar esse quiasmo como um vale de descida e subida. Cristo desce primeiro por sua Encarnação; depois, vai ainda para mais baixo com sua morte humilhante. Nós o encontramos no fundo do vale quando o imitamos e, portanto, tomamos parte em sua Paixão (enxugando-lhe o rosto, como Verônica,; carregando-lhe a Cruz, como Simão de Cirene). Assim podemos ascender com Ele em sua ressurreição. Rezemos para que, assim como a arte imita a vida, nossa vida imite esta bela oração.
 </p><br>
 
 <p style="text-align: center; font-weight: bold;">
@@ -598,11 +574,11 @@ Notas
 </p>
 
 <p style="text-align: justify; font-style: italic;">
-Na liturgia antiga, o 5.º Domingo da Quaresma era o 1.º Domingo da Paixão. Começava-se um tempo diferente dentro do próprio tempo quaresmal. Daí a tradição de se velar as imagens, própria das últimas duas semanas da Quaresma.
+Na liturgia antiga, o 5.º Domingo da Quaresma era o 1.º Domingo da Paixão. Começava-se um tempo diferente dentro do próprio tempo quaresmal. Daí a tradição de se velar as imagens, própria das últimas duas semanas da Quaresma (N.T.).
 </p><br>
 
 <p style="text-align: justify; font-style: italic;">
-Em latim, a oração Coleta do Domingo de Ramos é a mesma tanto no rito antigo quanto no novo. A tradução usada no texto, porém, prima pela literalidade e difere um pouco da tradução litúrgica brasileira.
+Em latim, a oração Coleta do Domingo de Ramos é a mesma tanto no rito antigo quanto no novo. A tradução usada no texto, porém, prima pela literalidade e difere um pouco da tradução litúrgica brasileira (N.T.).
 </p><br>
 
 <p style="text-align: justify; font-style: italic;">
@@ -610,17 +586,17 @@ Hoje, no rito novo, esta leitura da Primeira Carta de São Pedro faz-se no 4.º 
 </p><br>
 
 <p style="text-align: justify; font-style: italic;">
-No rito de Paulo VI, o Prefácio prescrito para o Domingo de Ramos é outro. Este, porém, foi mantido para a festa da Exaltação da Santa Cruz.
+No rito de Paulo VI, o Prefácio prescrito para o Domingo de Ramos é outro. Este, embora tenha sido mantido, reza-se na festa da Exaltação da Santa Cruz; também aqui, a tradução literal foi preferida à oficial usada no Brasil (N.T.).
 </p><br>
 
 <p style="text-align: justify; font-style: italic;">
-Trata-se do hino “Pange lingua”, de Venâncio Fortunato, utilizado no Tempo da Paixão e preservado na tradição litúrgica com adaptações ao longo dos séculos.
+Trata-se do hino “Cantem meus lábios a luta”, que em latim começa com as palavras Pange lingua (não confundir com o outro texto de Santo Tomás de Aquino, composto para Corpus Christi). Este poema do século VI é prescrito pela Igreja para o Tempo da Paixão e foi modificado por uma comissão de jesuítas no século XVII, sob a supervisão do Papa Urbano VIII. Esta versão prevaleceu no Breviarium Romanum (isto é, no Ofício Divino antigo), com a primeira parte sendo cantada nas Matinas e a segunda (a partir de Lustra sex qui iam peregit) nas Laudes. A Liturgia das Horas parece ter restabelecido em grande parte o texto latino original, anterior à reforma de Urbano VIII, e as traduções vernáculas se baseiam também nele. O corte atual, porém, foi para a estrofe seguinte: En acétum, fel, arúndo (“O fel lhe dão por bebida”). — Em suma, quem quiser encontrar no Ofício Divino vigente o trecho em questão, deve consultar o hino de Laudes do Ofício das Leituras para a Semana Santa (N.T.).
 </p>
 
 </div>
 `,
     summary: `
-Uma meditação completa sobre o Domingo de Ramos, explorando a oração da Coleta, o conceito de “eructação espiritual”, a imitação de Cristo na Paixão e a estrutura teológica profunda da liturgia que conduz da Cruz à ressurreição.
+Meditação sobre o Domingo de Ramos que explora a Coleta da Missa, a “eructação espiritual”, a imitação de Cristo na Paixão e a estrutura teológica que conduz da Cruz à ressurreição.
 `,
 },
 
