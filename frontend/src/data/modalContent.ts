@@ -485,10 +485,26 @@ Uma meditação sobre o Domingo Laetare, explicando a alegria no meio da Quaresm
 `,
   },
 
- "meditacao-06": {
+  "meditacao-06": {
     title: "Humildade e Cruz",
     content: `
 <div style="font-size: 19px; line-height: 1.9;">
+
+<p style="text-align: center; font-weight: bold;">
+UMA BELA ORAÇÃO PARA O DOMINGO DE RAMOS
+</p><br>
+
+<p style="text-align: center;">
+Michael P. Foley
+</p>
+
+<p style="text-align: center; font-style: italic;">
+Tradução: Equipe Christo Nihil Præponere
+</p><br>
+
+<p style="text-align: justify; font-style: italic;">
+“Deus eterno e todo-poderoso, que, para dar ao gênero humano um exemplo de humildade a ser imitado, fizestes o nosso Salvador assumir a carne e suportar a Cruz: concedei-nos, propício, que mereçamos viver suas lições de paciência e associar-nos à sua ressurreição.”
+</p><br>
 
 <p style="text-align: justify;">
 No calendário [romano] tradicional, o Domingo de Ramos continua o tema da Paixão e da Cruz, começado há uma semana [i], inaugura a Semana Santa e faz olhar com esperança para o Domingo de Páscoa, nossa luz no fim do túnel quaresmal. Tudo isso fica evidente na Coleta da Missa:
@@ -598,7 +614,7 @@ Trata-se do hino “Cantem meus lábios a luta”, que em latim começa com as p
     summary: `
 Meditação sobre o Domingo de Ramos que explora a Coleta da Missa, a “eructação espiritual”, a imitação de Cristo na Paixão e a estrutura teológica que conduz da Cruz à ressurreição.
 `,
-},
+  },
 
   "oracao-tema": {
     title: "A Oração Quaresmal",
