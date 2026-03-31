@@ -12,6 +12,7 @@ import robertSarah from "../assets/robertSarah.png";
 import bentoXVI from "../assets/bentoXVI.png";
 import robertSarahII from "../assets/robertSarahII.png";
 import sermao from "../assets/sermao.png";
+import jardins from "../assets/capa-jardins.png";
 
 export const ebooks: Ebook[] = [
   {
@@ -48,5 +49,10 @@ export const ebooks: Ebook[] = [
     img: sermao,
     link: "https://drive.google.com/file/d/1dzZsNFQnEPjth4GWxURG19Tj7HOlyEnx/view?usp=drive_link",
     title: "Sermão de São Leão Magno",
+  },
+  {
+    img: jardins,
+    link: "https://drive.google.com/file/d/1bOx2yEASn5CzSkGk5sFYwzl5Va4fsN1h/view?usp=drive_link",
+    title: "Os Quatro Jardins",
   },
 ];
